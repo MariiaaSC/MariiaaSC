@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola Maria 👋
+## **GitHub de _Maria Soriano_**
 
-<!--
-**MariiaaSC/MariiaaSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Altura** (Castellón) 📍
 
-Here are some ideas to get you started:
+> 20 _Años_ 💫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **Entornos** **_de_** _desarrollo_ 💻
+
+> Estudiando DAW 👾
+
+### Foto de un gato
+
+> (![imagen](https://github.com/user-attachments/assets/787fcc3c-82a7-4284-8cf6-d78be54d2e14)
+
+
+ 
+
